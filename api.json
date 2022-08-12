@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "user": "history",
+      "userPicture": "https://pbs.twimg.com/profile_images/1468225468642074629/k-33_Lq2_400x400.png",
+      "postPicture": "https://historycouk.s3.eu-west-2.amazonaws.com/s3fs-public/styles/860x300/public/2020-07/orson-welles-war-worlds.jpg",
+      "description": "On #ThisDayinHistory 1938, Orson Welles caused a nationwide panic with his broadcast of “War of the Worlds”—a realistic radio dramatization of a Martian invasion of Earth",
+      "likes": 241
+    },
+    {
+      "id": 3,
+      "user": "nasa",
+      "userPicture": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+      "postPicture": "https://blogs.esa.int/iriss/files/2015/09/20457019454_7de78eff73_o.jpg",
+      "location": "Space",
+      "description": "Waving goodbye to a spacecraft.",
+      "likes": 26
+    },
+    {
+      "id": 4,
+      "user": "natgeo",
+      "userPicture": "https://pbs.twimg.com/profile_images/1509880369436364803/vAq7YCE9_400x400.jpg",
+      "postPicture": "https://www.publicdomainpictures.net/pictures/90000/velka/mars.jpg",
+      "location": "Mars",
+      "description": "🧭 Explorer, 📸 photographer, ⛰️ geologist, 🧪 chemist... Mars Curiosity does it all!⁣",
+      "likes": 12
+    },
+    {
+      "postPicture": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia10372/3criacao-de-capivaras-curso-cpt.jpg",
+      "description": "Capivara <3",
+      "user": "leandronunesdev",
+      "userPicture": "https://avatars.githubusercontent.com/u/60386045?v=4",
+      "likes": 2,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "user": "Leandro Nunes",
+      "userPicture": "https://avatars.githubusercontent.com/u/60386045?v=4",
+      "postPicture": "https://skycms.s3.amazonaws.com/images/5495100/cachorro-card-1.png",
+      "description": "Dog <3",
+      "location": "San Francisco, California",
+      "likes": 1
+    }
+  ],
+  "stories": [
+    {
+      "id": 11,
+      "user": "natgeo",
+      "userPicture": "https://pbs.twimg.com/profile_images/1509880369436364803/vAq7YCE9_400x400.jpg",
+      "time": "há 22 minutos"
+    },
+    {
+      "id": 22,
+      "user": "nasa",
+      "userPicture": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
+      "time": "há 30 minutos"
+    },
+    {
+      "id": 33,
+      "user": "history",
+      "userPicture": "https://pbs.twimg.com/profile_images/1468225468642074629/k-33_Lq2_400x400.png",
+      "time": "há 2 horas"
+    },
+    {
+      "id": 44,
+      "user": "discovery",
+      "userPicture": "https://pbs.twimg.com/profile_images/1554871649236705280/vatPTAyW_400x400.jpg",
+      "time": "há 7 horas"
+    }
+  ],
+  "user": {
+    "name": "Leandro Nunes",
+    "username": "leandronunesdev",
+    "userPicture": "https://avatars.githubusercontent.com/u/60386045?v=4"
+  }
+}

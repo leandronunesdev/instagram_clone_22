@@ -51,16 +51,16 @@ const Form = ({ user }: Types.Props) => {
 
   return (
     <form className='form' ref={formInput}>
-      <p>Faça uma postagem aqui</p>
-      <input type='text' placeholder='Cole a url da imagem' ref={inputImage} />
+      <p>Create a post here</p>
+      <input type='text' placeholder='Put the image URL' ref={inputImage} />
       <input
         type='text'
-        placeholder='Digite uma descrição'
+        placeholder='Write a description'
         ref={inputDescription}
       />
-      <input type='text' placeholder='Localização' ref={inputLocation} />
-      {error && <div>Por favor, preencha todos os campos!</div>}
-      <button onClick={handlePostingPost}>Postar!</button>
+      <input type='text' placeholder='Location' ref={inputLocation} />
+      {error && <div>Please, fill all the fields!</div>}
+      <button onClick={handlePostingPost}>Post!</button>
     </form>
   );
 };
