@@ -35,10 +35,10 @@ Besides that, is good to have a good code editor as [VSCode](https://code.visual
 ### 🎲 Running the application
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone <https://github.com/leandronunesdev/instagram_clone_22>
 
-# Acces the project folder using terminal/cmd
+# Access the project folder using terminal/cmd
 $ cd instagram_clone_22
 
 # Install the dependencies
