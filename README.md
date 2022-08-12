@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#features">Features</a> •
- <a href="#demo">App demo</a> •
+ <a href="#demo">App image</a> •
  <a href="#requirements">Requirements</a> •
  <a href="#technologies">Technologies</a> • 
  <a href="#autor">Author</a>
@@ -20,10 +20,10 @@
 - [x] Posts list automatically updated
 - [x] Counting of "likes"
 
-<h1 id="demo">App demo</h1>
+<h1 id="demo">App image</h1>
 
 <h1 align="center">
-  <img alt="InstagramClone" title="#InstagramClone" src="./src/assets/instagram.gif" />
+  <img alt="InstagramClone" title="#InstagramClone" src="./src/assets/images/instagram_clone.jpeg" />
 </h1>
 
 <h1 id="requirements">Requirements</h1>
